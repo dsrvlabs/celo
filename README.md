@@ -19,7 +19,9 @@ https://github.com/celo-org/celo-monorepo/pull/1805
 ## Running Validators
 - Alfajores testnet
   - Validator group: dsrvlabs
+      ![Validator group](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-alfajores-validatorgroup.png)
   - Validator : dsrvlabs
+      ![Validator](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-alfajores-validator.png)
 
 # Useful links
 Celo Docs: https://docs.celo.org/
