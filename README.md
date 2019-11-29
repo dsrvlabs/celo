@@ -1,11 +1,18 @@
 # Celo
 [Celo](https://celo.org/)를 소개합니다.
 
-## White paper in Korean
-- [Celo 한글 백서](./whitepaper/celo_white_paper_korean.pdf)
+dsrv labs에서는 Celo에서 다음과 같은 활동를 하고 있습니다.
+
+## Translation (번역)
+- [Celo 한글 백서](./whitepaper/celo_white_paper_korean.pdf) (whitepaper in Korean)
+
+
+## Running Validators
+- Alfajores testnet
+  - Validator group: dsrvlabs
+  - Validator : dsrvlabs
 
 # Useful links
-
 Celo Docs: https://docs.celo.org/
 
 ## Testnet
