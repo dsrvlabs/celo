@@ -24,7 +24,10 @@ dsrv labs에서는 Celo에서 다음과 같은 활동를 하고 있습니다.
       ![Validator](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-alfajores-validator.png)
       
       
-## Participating in The Great Celo Stake-Of
+## Participating in The Great Celo Stake Off
+Celo의 TGCSO에 멘토로 참석 중입니다. Celo에서 Valdidator돌릴 Buddy 를 찾습니다. (관심 있다면 아래 링크 참고)
+- https://forum.celo.org/t/find-a-mentor-mentee-for-the-great-celo-stake-off/142/4 (Celo Forum)
+
 
 # Useful links
 Celo Docs: https://docs.celo.org/
