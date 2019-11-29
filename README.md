@@ -1,7 +1,7 @@
 # Celo
-[Celo](https://celo.org/)를 소개합니다.
+Project: [Celo](https://celo.org/)
 
-dsrv labs에서는 Celo에서 다음과 같은 활동를 하고 있습니다.
+List of "dsrv labs" activities regarding Celo is as below.
 
 ## Code Contribution
 - Issue [celo-blockchain#631](https://github.com/celo-org/celo-blockchain/issues/631)
@@ -25,7 +25,7 @@ dsrv labs에서는 Celo에서 다음과 같은 활동를 하고 있습니다.
       
       
 ## Participating in The Great Celo Stake Off
-Celo의 TGCSO에 멘토로 참석 중입니다. Celo에서 Valdidator돌릴 Buddy 를 찾습니다. (관심 있다면 아래 링크 참고)
+We are going to participate in TGCSO as a mentor. Looking for a buddy who are going to run a validator for Celo. Please take a look at below link for more detail.
 - https://forum.celo.org/t/find-a-mentor-mentee-for-the-great-celo-stake-off/142/4 (Celo Forum)
 
 
