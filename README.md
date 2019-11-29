@@ -12,7 +12,7 @@ dsrv labs에서는 Celo에서 다음과 같은 활동를 하고 있습니다.
 - [Celo 한글 백서](./whitepaper/celo_white_paper_korean.pdf) (whitepaper in Korean)
 
 ## Blog & Videos
-- celo project introduce: 
+- Celo project introduction 
   - https://steemit.com/celo/@sigmoid/celo-a-multi-asset-cryptographic-protocol-for-decentralized-social-payments
   - https://www.youtube.com/watch?v=iZTU6yI6ySw&list=PLmeme46u9r2DuQ_vu2yYuCiSML4veppR0&index=10&t=0s
 
