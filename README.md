@@ -3,7 +3,7 @@ Project: [Celo](https://celo.org/)
 
 List of "dsrv labs" activities regarding Celo is as below.
 
-## Code Contribution
+## Bug reporting and Code Contribution
 - Issue [celo-blockchain#691](https://github.com/celo-org/celo-blockchain/issues/691)
   - Validator SBAT connect to proxy even when the proxy has max number of peers
 - Issue [celo-blockchain#631](https://github.com/celo-org/celo-blockchain/issues/631)
