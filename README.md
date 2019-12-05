@@ -26,7 +26,7 @@ List of "dsrv labs" activities regarding Celo is as below.
      - [dsrv labs - WellDoneStake.com](https://baklava-blockscout.celo-testnet.org/address/0x43c8cc9884d8e2ea870c33bdc25f495c25f269df/celo) (Celo Baklava Explorer)
      - [Proposed blocks](https://baklava-blockscout.celo-testnet.org/address/0x355eca0d3c48c4b8a3359644c7c83db01c6ac594/validations) (Celo Baklava Explorer)
   - The Great Celo Stake Off
-      ![Validator](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-baklava-TGCSO-leaderboard-20191205-2341.png)
+      ![Validator](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-baklava-TGCSO-leaderboard-20191205-2346.png)
       
 - Alfajores testnet
   - Validator group: dsrvlabs
