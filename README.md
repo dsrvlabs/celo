@@ -6,6 +6,8 @@ List of "dsrv labs" activities regarding Celo is as below.
 ## Celo Validator Monitor Discord Bot for Baklava testnet
 
 - https://github.com/dsrvlabs/celo-validator-monitoring
+![Validator ALERT](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/celo-monitoring-alert1.png)
+
 
 ## Bug reporting and Code Contribution
 - Issue [celo-blockchain#691](https://github.com/celo-org/celo-blockchain/issues/691) and fixed by PR [celo-blockchain#697](https://github.com/celo-org/celo-blockchain/pull/697)
