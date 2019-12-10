@@ -3,6 +3,10 @@ Project: [Celo](https://celo.org/)
 
 List of "dsrv labs" activities regarding Celo is as below.
 
+## Celo Validator Monitor Discord Bot for Baklava testnet
+
+- https://github.com/dsrvlabs/celo-validator-monitoring
+
 ## Bug reporting and Code Contribution
 - Issue [celo-blockchain#691](https://github.com/celo-org/celo-blockchain/issues/691) and fixed by PR [celo-blockchain#697](https://github.com/celo-org/celo-blockchain/pull/697)
   - Validator should be able to connect to proxy even when the proxy has max number of peers
