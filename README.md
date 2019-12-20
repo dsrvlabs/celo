@@ -10,10 +10,10 @@ List of "dsrv labs" activities regarding Celo is as below.
 
 
 ## Bug reporting and Code Contribution
-- Issue [celo-blockchain#691](https://github.com/celo-org/celo-blockchain/issues/691) and fixed by PR [celo-blockchain#697](https://github.com/celo-org/celo-blockchain/pull/697)
-  - Validator should be able to connect to proxy even when the proxy has max number of peers
 - Issue [celo-blockchain#631](https://github.com/celo-org/celo-blockchain/issues/631)
   - New validator can not be elected in Alfajores testnet due to out of gas
+- Issue [celo-blockchain#691](https://github.com/celo-org/celo-blockchain/issues/691) and fixed by PR [celo-blockchain#697](https://github.com/celo-org/celo-blockchain/pull/697)
+  - Validator should be able to connect to proxy even when the proxy has max number of peers
 - Issue [celo-blockchain#762](https://github.com/celo-org/celo-blockchain/issues/762) and PR [celo-blockchain#763](https://github.com/celo-org/celo-blockchain/pull/763)
 - Issue [celo-monorepo#1804](https://github.com/celo-org/celo-monorepo/issues/1804) and PR [celo-monorep#1805](https://github.com/celo-org/celo-monorepo/pull/1805)
 - Issue [celo-monorepo#2062](https://github.com/celo-org/celo-monorepo/issues/2062)
