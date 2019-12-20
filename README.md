@@ -21,6 +21,7 @@ List of "dsrv labs" activities regarding Celo is as below.
 - Issue [celo-monorepo#2099](https://github.com/celo-org/celo-monorepo/issues/2099)
 - Issue [celo-monorepo#2157](https://github.com/celo-org/celo-monorepo/issues/2157)
 - Issue [celo-monorepo#2158](https://github.com/celo-org/celo-monorepo/issues/2158) and PR [celo-monorepo#2159](https://github.com/celo-org/celo-monorepo/pull/2159)
+- Issue [celo-monorepo#2313](https://github.com/celo-org/celo-monorepo/issues/2312)
 
 ## Translation (번역)
 - [Celo 한글 백서](./whitepaper/celo_white_paper_korean.pdf) (whitepaper in Korean)
