@@ -15,13 +15,18 @@ List of "dsrv labs" activities regarding Celo is as below.
 - Issue [celo-blockchain#691](https://github.com/celo-org/celo-blockchain/issues/691) and fixed by PR [celo-blockchain#697](https://github.com/celo-org/celo-blockchain/pull/697)
   - Validator should be able to connect to proxy even when the proxy has max number of peers
 - Issue [celo-blockchain#762](https://github.com/celo-org/celo-blockchain/issues/762) and PR [celo-blockchain#763](https://github.com/celo-org/celo-blockchain/pull/763)
+- Issue [celo-blockchain#793](https://github.com/celo-org/celo-blockchain/issues/793)
 - Issue [celo-monorepo#1804](https://github.com/celo-org/celo-monorepo/issues/1804) and PR [celo-monorep#1805](https://github.com/celo-org/celo-monorepo/pull/1805)
 - Issue [celo-monorepo#2062](https://github.com/celo-org/celo-monorepo/issues/2062)
 - Issue [celo-monorepo#2098](https://github.com/celo-org/celo-monorepo/issues/2098)
 - Issue [celo-monorepo#2099](https://github.com/celo-org/celo-monorepo/issues/2099)
 - Issue [celo-monorepo#2157](https://github.com/celo-org/celo-monorepo/issues/2157)
 - Issue [celo-monorepo#2158](https://github.com/celo-org/celo-monorepo/issues/2158) and PR [celo-monorepo#2159](https://github.com/celo-org/celo-monorepo/pull/2159)
-- Issue [celo-monorepo#2313](https://github.com/celo-org/celo-monorepo/issues/2312)
+- Issue [celo-monorepo#2312](https://github.com/celo-org/celo-monorepo/issues/2312)
+- Issue [celo-monorepo#2599](https://github.com/celo-org/celo-monorepo/issues/2599)
+- PR [celo-monorepo#2600]](https://github.com/celo-org/celo-monorepo/pull/2600)
+- Issue [celo-monorepo#2605](https://github.com/celo-org/celo-monorepo/issues/2605)
+
 
 ## Translation (번역)
 - [Celo 한글 백서](./whitepaper/celo_white_paper_korean.pdf) (whitepaper in Korean)
@@ -39,7 +44,7 @@ List of "dsrv labs" activities regarding Celo is as below.
      - [dsrv labs - WellDoneStake.com](https://baklava-blockscout.celo-testnet.org/address/0x43c8cc9884d8e2ea870c33bdc25f495c25f269df/celo) (Celo Baklava Explorer)
      - [Proposed blocks](https://baklava-blockscout.celo-testnet.org/address/0x355eca0d3c48c4b8a3359644c7c83db01c6ac594/validations) (Celo Baklava Explorer)
   - The Great Celo Stake Off Leaderboard at https://celo.org/build
-      ![Validator](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-baklava-TGCSO-leaderboard-20191210-155947.png)
+  [Replay leaderboard](https://raw.githubusercontent.com/dsrvlabs/celo/master/img/dsrvlabs-baklava-TGCSO-leaderboard-replay.gif)
       
 - Alfajores testnet
   - Validator group: dsrvlabs
