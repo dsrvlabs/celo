@@ -24,7 +24,7 @@ List of "dsrv labs" activities regarding Celo is as below.
 - Issue [celo-monorepo#2158](https://github.com/celo-org/celo-monorepo/issues/2158) and PR [celo-monorepo#2159](https://github.com/celo-org/celo-monorepo/pull/2159)
 - Issue [celo-monorepo#2312](https://github.com/celo-org/celo-monorepo/issues/2312)
 - Issue [celo-monorepo#2599](https://github.com/celo-org/celo-monorepo/issues/2599)
-- PR [celo-monorepo#2600]](https://github.com/celo-org/celo-monorepo/pull/2600)
+- PR [celo-monorepo#2600](https://github.com/celo-org/celo-monorepo/pull/2600)
 - Issue [celo-monorepo#2605](https://github.com/celo-org/celo-monorepo/issues/2605)
 
 
