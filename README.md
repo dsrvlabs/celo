@@ -27,6 +27,9 @@ List of "dsrv labs" activities regarding Celo is as below.
 - PR [celo-monorepo#2600](https://github.com/celo-org/celo-monorepo/pull/2600)
 - Issue [celo-monorepo#2605](https://github.com/celo-org/celo-monorepo/issues/2605)
 
+## Lynis contribution 
+lynis was used for auditing Celo validators during the stake-off.
+- Issue [lynis#844](https://github.com/CISOfy/lynis/issues/844) and PR [lynis#845](https://github.com/CISOfy/lynis/pull/845)
 
 ## Translation (번역)
 - [Celo 한글 백서](./whitepaper/celo_white_paper_korean.pdf) (whitepaper in Korean)
