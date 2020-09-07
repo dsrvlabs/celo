@@ -3,6 +3,16 @@ Project: [Celo](https://celo.org/)
 
 List of "dsrv labs" activities regarding Celo is as below.
 
+
+## Celo Desktop wallet
+https://github.com/dsrvlabs/celo-desktopwallet-extension
+https://github.com/dsrvlabs/web3-celo.js
+https://github.com/dsrvlabs/ethereumjs-tx-celo
+
+## Celo Staking Dapp on Desktop wallet
+https://github.com/dsrvlabs/celo-swap (private)
+
+
 ## Celo Validator Monitor Discord Bot for Baklava testnet
 
 - https://github.com/dsrvlabs/celo-validator-monitoring
